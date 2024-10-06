@@ -11,17 +11,13 @@ This is a solver for SAT problems, implemented using the DPLL(Davis–Putnam–L
 1. Place CNF files in the `CNF_Files` directory.
 ### Compile the program
     make all
-    ```
 If you use a different compiler, please edit the Makefile accordingly.
 ### Solve SAT problems
     make process
-    ```
 ### Verify the solution
     make verify
-    ```
 ### Clear generated files
     make clean
-    ```
 
 ## Catalog
 
