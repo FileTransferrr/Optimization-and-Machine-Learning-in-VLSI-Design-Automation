@@ -28,7 +28,7 @@ If you use a different compiler, please edit the Makefile accordingly.
 #### Verify the solution
     make verify
 #### Clear output directory and executable file
-    make clean
+    make clean_all
 #### Delete the build folder(if necessary)
     cd ..
     rm -rf build
